@@ -18,6 +18,9 @@ to make it work just edit Run.bat file with any editor with your pool info, save
 -windows xp/7/8<br />
 -.net 3.5<br />
 
+to build the code you will require this library: <br />
+https://github.com/replicon/Replicon.Cryptography.SCrypt<br />
+
 <b>TODO Next</b>
 
 -gui interface<br />
