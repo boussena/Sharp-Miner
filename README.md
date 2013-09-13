@@ -3,7 +3,7 @@ SharpMiner
 
 Sharp Miner is an open source c# cpu scrypt miner<br />
 it's easy to use, easy to understand how the code and the process work!<br />
-currently it support only longpooling pools (stratum ill add next release)<br />
+currently it supports only longpooling pools (stratum will be add next release)<br />
 to make it work just edit Run.bat file with any editor with your pool info, save then execute it!<br />
 
 <b>Features</b>
@@ -20,6 +20,10 @@ to make it work just edit Run.bat file with any editor with your pool info, save
 
 to build the code you will require this library: <br />
 https://github.com/replicon/Replicon.Cryptography.SCrypt<br />
+
+<b>Binaries</b>
+
+Donload binaries at http://ge.tt/api/1/files/9lDw94s/0/blob?download
 
 <b>TODO Next</b>
 
