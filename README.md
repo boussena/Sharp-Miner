@@ -23,7 +23,7 @@ https://github.com/replicon/Replicon.Cryptography.SCrypt<br />
 
 <b>Binaries</b>
 
-Donload binaries at http://ge.tt/api/1/files/9lDw94s/0/blob?download
+Download binaries at http://ge.tt/api/1/files/9lDw94s/0/blob?download
 
 <b>TODO Next</b>
 
